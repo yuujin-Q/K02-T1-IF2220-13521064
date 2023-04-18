@@ -49,9 +49,8 @@ tersebut.
 <br> d. Bagian awal kolom residual sugar memiliki variansi yang sama dengan bagian akhirnya?
 <br> e. Proporsi nilai setengah bagian awal alcohol yang lebih dari 7, adalah lebih besar daripada, proporsi nilai yang sama di setengah bagian akhir alcohol?
 
-## **Results Summary**
-TBA
-
+## **Summary**
+Pengerjaan permasalahan di atas diselesaikan dengan menggunakan beberapa library `Python` (`pandas`, `matplotlib`, `scipy`, `seaborn`, `statsmodels`). Kode pengerjaan dapat dilihat pada file `*.ipynb` yang terdapat pada folder `/src/`. Dokumen hasil pengerjaan dapat dilihat pada folder `/doc/`.
 
 ## **Authors**
 | NIM | Nama |
